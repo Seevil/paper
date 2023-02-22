@@ -5,6 +5,7 @@ Hugo主题同名主题[hugo-paper][1]的typecho简单移植
 
 暂未添加评论功能支持夜间模式
 建议首页文章不超过5个视觉效果最佳
+
 首页：
 ![首页](https://user-images.githubusercontent.com/7334510/220692950-faa43e96-7456-4f39-92d7-b42f3debdff9.png)
 文章：
